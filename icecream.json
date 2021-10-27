@@ -1,0 +1,262 @@
+{
+  "data": [
+    {
+      "name": "Haagen-Dazs",
+      "image": "https://www.nestle.com/sites/default/files/haagen-dazs-logo-round-2021.png",
+            "flavors": [
+        {
+          "name": "Chocolate",
+          "price": 6.50,
+          "quantity": 25,
+          "image" : "https://www.modernhoney.com/wp-content/uploads/2018/08/Homemade-Chocolate-Ice-Cream-1.jpg"
+        },
+        {
+          "name": "Vanilla",
+          "price": 5.70,
+          "quantity": 35,
+          "image" : "https://thebusybaker.ca/wp-content/uploads/2019/05/best-ever-no-churn-vanilla-ice-cream-fb-ig-2.jpg"
+          
+        },
+        {
+          "name": "Cookies N' Cream",
+          "price": 5.70,
+          "quantity": 55,
+          "image" : "https://www.natalieparamore.com/wp-content/uploads/Classic-Oreo-Cookies-n-Cream-Ice-Cream-_-Natalie-Paramore-04.jpg"
+        },
+        {
+          "name": "Buttered Pecan",
+          "price": 4.70,
+          "quantity": 15,
+          "image" : "https://www.haagendazs.us/sites/site.prod1.haagendazs.us/files/product/product-image/hero-sept-2019-butterpecan.jpg"
+        },
+        {
+          "name": "Strawberry",
+          "price": 4.60,
+          "quantity": 5,
+          "image" : "https://bakingamoment.com/wp-content/uploads/2018/06/IMG_8185-homemade-strawberry-ice-cream-square.jpg"
+        },
+        {
+          "name": "Mango",
+          "price": 5.00,
+          "quantity": 10,
+          "image" : "https://sandhyahariharan.co.uk/wp-content/uploads/2018/05/mango-ice-cream-1-of-3-min.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Ben & Jerry's",
+      "image": "https://cdn.freebiesupply.com/logos/large/2x/ben-jerrys-2-logo-png-transparent.png",
+      "flavors": [
+        {
+          "name": "Chocolate",
+          "price": 6.50,
+          "quantity": 25,
+          "image" : "https://www.modernhoney.com/wp-content/uploads/2018/08/Homemade-Chocolate-Ice-Cream-1.jpg"
+        },
+        {
+          "name": "Vanilla",
+          "price": 5.70,
+          "quantity": 35,
+          "image" : "https://thebusybaker.ca/wp-content/uploads/2019/05/best-ever-no-churn-vanilla-ice-cream-fb-ig-2.jpg"
+          
+        },
+        {
+          "name": "Cookies N' Cream",
+          "price": 5.70,
+          "quantity": 55,
+          "image" : "https://www.natalieparamore.com/wp-content/uploads/Classic-Oreo-Cookies-n-Cream-Ice-Cream-_-Natalie-Paramore-04.jpg"
+        },
+        {
+          "name": "Buttered Pecan",
+          "price": 4.70,
+          "quantity": 15,
+          "image" : "https://www.haagendazs.us/sites/site.prod1.haagendazs.us/files/product/product-image/hero-sept-2019-butterpecan.jpg"
+        },
+        {
+          "name": "Strawberry",
+          "price": 4.60,
+          "quantity": 5,
+          "image" : "https://bakingamoment.com/wp-content/uploads/2018/06/IMG_8185-homemade-strawberry-ice-cream-square.jpg"
+        },
+        {
+          "name": "Mango",
+          "price": 5.00,
+          "quantity": 10,
+          "image" : "https://sandhyahariharan.co.uk/wp-content/uploads/2018/05/mango-ice-cream-1-of-3-min.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Magnum",
+      "image": "https://pbs.twimg.com/profile_images/1154022165949423616/ttYGBBGT_400x400.png",
+      "flavors": [
+        {
+          "name": "Chocolate",
+          "price": 6.50,
+          "quantity": 25,
+          "image" : "https://www.modernhoney.com/wp-content/uploads/2018/08/Homemade-Chocolate-Ice-Cream-1.jpg"
+        },
+        {
+          "name": "Vanilla",
+          "price": 5.70,
+          "quantity": 35,
+          "image" : "https://thebusybaker.ca/wp-content/uploads/2019/05/best-ever-no-churn-vanilla-ice-cream-fb-ig-2.jpg"
+          
+        },
+        {
+          "name": "Cookies N' Cream",
+          "price": 5.70,
+          "quantity": 55,
+          "image" : "https://www.natalieparamore.com/wp-content/uploads/Classic-Oreo-Cookies-n-Cream-Ice-Cream-_-Natalie-Paramore-04.jpg"
+        },
+        {
+          "name": "Buttered Pecan",
+          "price": 4.70,
+          "quantity": 15,
+          "image" : "https://www.haagendazs.us/sites/site.prod1.haagendazs.us/files/product/product-image/hero-sept-2019-butterpecan.jpg"
+        },
+        {
+          "name": "Strawberry",
+          "price": 4.60,
+          "quantity": 5,
+          "image" : "https://bakingamoment.com/wp-content/uploads/2018/06/IMG_8185-homemade-strawberry-ice-cream-square.jpg"
+        },
+        {
+          "name": "Mango",
+          "price": 5.00,
+          "quantity": 10,
+          "image" : "https://sandhyahariharan.co.uk/wp-content/uploads/2018/05/mango-ice-cream-1-of-3-min.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Blue Bell",
+      "image": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082014/blue-bell-halfmoon-color.png?itok=iniHi4We",
+      "flavors": [
+        {
+          "name": "Chocolate",
+          "price": 6.50,
+          "quantity": 25,
+          "image" : "https://www.modernhoney.com/wp-content/uploads/2018/08/Homemade-Chocolate-Ice-Cream-1.jpg"
+        },
+        {
+          "name": "Vanilla",
+          "price": 5.70,
+          "quantity": 35,
+          "image" : "https://thebusybaker.ca/wp-content/uploads/2019/05/best-ever-no-churn-vanilla-ice-cream-fb-ig-2.jpg"
+          
+        },
+        {
+          "name": "Cookies N' Cream",
+          "price": 5.70,
+          "quantity": 55,
+          "image" : "https://www.natalieparamore.com/wp-content/uploads/Classic-Oreo-Cookies-n-Cream-Ice-Cream-_-Natalie-Paramore-04.jpg"
+        },
+        {
+          "name": "Buttered Pecan",
+          "price": 4.70,
+          "quantity": 15,
+          "image" : "https://www.haagendazs.us/sites/site.prod1.haagendazs.us/files/product/product-image/hero-sept-2019-butterpecan.jpg"
+        },
+        {
+          "name": "Strawberry",
+          "price": 4.60,
+          "quantity": 5,
+          "image" : "https://bakingamoment.com/wp-content/uploads/2018/06/IMG_8185-homemade-strawberry-ice-cream-square.jpg"
+        },
+        {
+          "name": "Mango",
+          "price": 5.00,
+          "quantity": 10,
+          "image" : "https://sandhyahariharan.co.uk/wp-content/uploads/2018/05/mango-ice-cream-1-of-3-min.jpg"
+        }
+      ]
+    },
+    {
+      "name":  "Dairy Queen",
+      "image": "https://cdn.worldvectorlogo.com/logos/dairy-queen-logo.svg",
+      "flavors":[
+        {
+          "name": "Chocolate",
+          "price": 6.50,
+          "quantity": 25,
+          "image" : "https://www.modernhoney.com/wp-content/uploads/2018/08/Homemade-Chocolate-Ice-Cream-1.jpg"
+        },
+        {
+          "name": "Vanilla",
+          "price": 5.70,
+          "quantity": 35,
+          "image" : "https://thebusybaker.ca/wp-content/uploads/2019/05/best-ever-no-churn-vanilla-ice-cream-fb-ig-2.jpg"
+          
+        },
+        {
+          "name": "Cookies N' Cream",
+          "price": 5.70,
+          "quantity": 55,
+          "image" : "https://www.natalieparamore.com/wp-content/uploads/Classic-Oreo-Cookies-n-Cream-Ice-Cream-_-Natalie-Paramore-04.jpg"
+        },
+        {
+          "name": "Buttered Pecan",
+          "price": 4.70,
+          "quantity": 15,
+          "image" : "https://www.haagendazs.us/sites/site.prod1.haagendazs.us/files/product/product-image/hero-sept-2019-butterpecan.jpg"
+        },
+        {
+          "name": "Strawberry",
+          "price": 4.60,
+          "quantity": 5,
+          "image" : "https://bakingamoment.com/wp-content/uploads/2018/06/IMG_8185-homemade-strawberry-ice-cream-square.jpg"
+        },
+        {
+          "name": "Mango",
+          "price": 5.00,
+          "quantity": 10,
+          "image" : "https://sandhyahariharan.co.uk/wp-content/uploads/2018/05/mango-ice-cream-1-of-3-min.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Baskin-Robbins",
+      "image": "https://www.seekpng.com/png/detail/281-2819372_symbol-baskin-robbins-logo.png",
+      "flavors": [
+        {
+          "name": "Chocolate",
+          "price": 6.50,
+          "quantity": 25,
+          "image" : "https://www.modernhoney.com/wp-content/uploads/2018/08/Homemade-Chocolate-Ice-Cream-1.jpg"
+        },
+        {
+          "name": "Vanilla",
+          "price": 5.70,
+          "quantity": 35,
+          "image" : "https://thebusybaker.ca/wp-content/uploads/2019/05/best-ever-no-churn-vanilla-ice-cream-fb-ig-2.jpg"
+          
+        },
+        {
+          "name": "Cookies N' Cream",
+          "price": 5.70,
+          "quantity": 55,
+          "image" : "https://www.natalieparamore.com/wp-content/uploads/Classic-Oreo-Cookies-n-Cream-Ice-Cream-_-Natalie-Paramore-04.jpg"
+        },
+        {
+          "name": "Buttered Pecan",
+          "price": 4.70,
+          "quantity": 15,
+          "image" : "https://www.haagendazs.us/sites/site.prod1.haagendazs.us/files/product/product-image/hero-sept-2019-butterpecan.jpg"
+        },
+        {
+          "name": "Strawberry",
+          "price": 4.60,
+          "quantity": 5,
+          "image" : "https://bakingamoment.com/wp-content/uploads/2018/06/IMG_8185-homemade-strawberry-ice-cream-square.jpg"
+        },
+        {
+          "name": "Mango",
+          "price": 5.00,
+          "quantity": 10,
+          "image" : "https://sandhyahariharan.co.uk/wp-content/uploads/2018/05/mango-ice-cream-1-of-3-min.jpg"
+        }
+      ]
+    }
+  ]
+}

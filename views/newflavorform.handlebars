@@ -1,0 +1,50 @@
+{{!-- START NAVBAR --}}
+<div class="row">
+   <div class="col">
+      <div class="bg-img">
+         <div class="container">
+            <div class="topnav">
+               <a href="/brands">Home</a>
+               <a href="/login-form">Login</a>
+               <a href="/new-flavor-form">Add New Flavor</a>
+               <a href="#about">About</a>
+               <a href="#contact">Contact</a>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+{{!-- END NAVBAR --}}
+
+<div class="row">
+   <div class="col">
+      <form action="/new-flavor" method="post">
+         <label for="name">Flavor Name:</label><br>
+         <input type="text" id="name" name="name" required><br>
+
+         <label for="image">Image URL:</label><br>
+         <input type="text" id="image" name="image" required>
+         <br>
+         <label for="quantity">Quantity:</label><br>
+         <input type="number" id="quantity" name="quantity" min="1" required><br>
+
+         <label for="name">Price:</label><br>
+         <input type="number" id="price" name="price" min="1" step="any" required><br>
+
+         <label for="BrandId">Choose a brand:</label><br>
+         <select id="BrandId" name="BrandId">
+            <option value="1">Haagen-Dazs</option>
+            <option value="2">Ben & Jerry's</option>
+            <option value="3">Magnum</option>
+            <option value="4">Blue Bell</option>
+            <option value="5">Dairy Queen</option>
+            <option value="6">Baskin-Robbins</option>
+         </select>
+         <br>
+         <button type="submit" class="btn">Submit</button>
+   </div>
+
+
+   </form>
+</div>
+</div>
